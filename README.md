@@ -1,6 +1,6 @@
-# 👨‍💻 nexusgl
+# 👨‍💻 jgildev7
 
-### Hi! I'm **Jose Gil**, also known as _nexusgl_ on GitHub.
+### Hi! I'm **Jose Gil**, also known as _jgildev7_ on GitHub.
 
 I'm a **Full Stack Software Developer** with over 5 years of experience, passionate about writing clean, high-quality code and collaborating in teams to build innovative solutions. I love learning and sharing knowledge about modern technologies, and I'm always looking for ways to improve my skills.
 
